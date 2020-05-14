@@ -1,0 +1,8 @@
+const typeActions = {
+  ADD_CONTACT: 'ADD_CONTACT',
+  DELETE_CONTACT: 'DELETE_CONTACT',
+  UPDATE_FILTER: 'UPDATE_FILTER',
+  UPDATE_ERROR_MESSAGE: 'UPDATE_ERROR_MESSAGE',
+};
+
+export default typeActions;
